@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1736535329 source:c:\users\asus\desktop\projet pour controle\projet1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblib.h"
+	<string.h>
+	<conio.h>
+
+1736535329 c:\users\asus\desktop\projet pour controle\projet1\biblib.h
+	<conio.h>
+
+1736539870 source:c:\users\asus\desktop\projet pour controle\projet1\biblib.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	"biblib.h"
+
+1736540328 source:d:\rar\nada farah projet\projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblib.h"
+	<string.h>
+	<conio.h>
+
+1736546582 d:\rar\nada farah projet\projet\biblib.h
+	<conio.h>
+
+1736544207 source:d:\rar\nada farah projet\projet\biblib.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	"biblib.h"
+
+1736620148 source:c:\users\asus\desktop\thank you hamtarou\biblib.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"biblib.h"
+
+1736547096 c:\users\asus\desktop\thank you hamtarou\biblib.h
+	<conio.h>
+
+1736540328 source:c:\users\asus\desktop\thank you hamtarou\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblib.h"
+	<string.h>
+	<conio.h>
+
